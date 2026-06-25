@@ -1,7 +1,10 @@
 # IDX-Top50-First-Semester-Personal-Analysis-Ravindra
 A project to analyze top 50 Companies indexed in IHSG in the first Semester of 2026 using Python and Excel
 
-##Analysis
+> ### ⚠️ Disclaimer
+> This project was assisted by Gemini AI and this analysis is for **Informational Purposes Only**. I am not a financial advisor. Do your own research (DYOR) before making any investment decisions. All profits or loss are personal responsibilities
+
+## Analysis
 
 ### Macro Sector Dynamics
 *Dynamic market share distribution tracking sector dominance shifting month-by-month.*
