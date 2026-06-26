@@ -7,7 +7,7 @@
 A comprehensive data analysis project examining the top 50 companies listed on Indonesia's stock exchange (IHSG) during the first semester of 2026. This project leverages Python for data processing and Excel for advanced analysis, combining quantitative insights with visual representations of market dynamics.
 
 > ### ⚠️ Disclaimer
-> This project was assisted by Gemini AI and this analysis is for **Informational Purposes Only**. I am not a financial advisor. Do your own research (DYOR) before making any investment decisions. All data and analysis are provided as educational material without guarantee of accuracy.
+> This project was assisted by Gemini AI and this analysis is for **Informational Purposes Only**. I am not a financial advisor. Do your own research (DYOR) before making any investment decisions. All data and analysis are provided as educational material without guarantee of accuracy. All profit or loss are personal responsibility
 
 ---
 
