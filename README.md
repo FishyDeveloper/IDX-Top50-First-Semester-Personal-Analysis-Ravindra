@@ -10,6 +10,82 @@ A project to analyze top 50 Companies indexed in IHSG in the first Semester of 2
   - [The Micro Leaderboard Drift](#the-micro-leaderboard-drift)
   - [Systemic Decentralization Metric](#systemic-decentralization-metric)
 - [Personal Take](#personal-take)
+- [Technical Setup](#technical-setup)
+- [Project Structure](#project-structure)
+
+## Technical Setup
+
+### Prerequisites
+- **Python 3.13** or compatible version
+- **Required Libraries:**
+  - `pandas` - Data manipulation and analysis
+  - `openpyxl` - Excel file handling
+  - `pathlib` - File path operations
+  - `csv` - CSV data processing
+
+### Installation & Setup
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/FishyDeveloper/IDX-Top50-First-Semester-Personal-Analysis-Ravindra.git
+   cd IDX-Top50-First-Semester-Personal-Analysis-Ravindra
+   ```
+
+2. **Install Dependencies**
+   ```bash
+   pip install pandas openpyxl
+   ```
+
+3. **Data Preparation**
+   - Download market capitalization data from [IDX Official Statistical Reports](https://idx.co.id/en/market-data/statistical-reports/digital-statistic/monthly/biggest-market-capitalization-most-active-stocks/biggest-market-capitalization?filter=eyJ5ZWFyIjoiMjAyMyIsIm1vbnRoIjoiNSIsInF1YXJ0ZXIiOjAsInR5cGUiOiJtb250aGx5In0%3D)
+   - Reference company sector data: [Wikipedia - Listed Companies on IDX](https://id.wikipedia.org/wiki/Daftar_perusahaan_yang_tercatat_di_Bursa_Efek_Indonesia) *(2024 data - may require additional research)*
+   - Place raw data files in the `Raw Files/` directory
+
+### Execution Workflow
+
+Follow these steps **in sequential order**:
+
+1. **Run Rename Script**
+   ```bash
+   python Python\ Files/rename_script.py
+   ```
+   Standardizes and renames raw data files for consistent processing.
+
+2. **Extract Master Asset to CSV**
+   ```bash
+   python Python\ Files/master_asset_to_csv.py
+   ```
+   Converts master asset data into CSV format for analysis.
+
+3. **Merge Monthly Lists**
+   ```bash
+   python Python\ Files/merged_list.py
+   ```
+   Consolidates all monthly data (January-June) into a single unified dataset.
+
+4. **Generate Analysis & Visualizations**
+   - Excel pivot tables and analysis files are generated in the `Processed/` folder
+   - Final visualizations and charts are saved to the `Visuals/` folder
+
+### IDE & Configuration
+- Recommended: **PyCharm** (automatically manages Python path configuration)
+- No external configuration files required; standard Python environment setup is sufficient
+
+## Project Structure
+
+```
+IDX-Top50-First-Semester-Personal-Analysis-Ravindra/
+├── Raw Files/              # Source data from IDX and Wikipedia
+├── Python Files/           # Python scripts (rename, master asset, merge)
+│   ├── rename_script.py
+│   ├── master_asset_to_csv.py
+│   └── merged_list.py
+├── Processed/              # Excel files with analysis and pivot tables
+├── Visuals/                # Generated charts, graphs, and pivot table exports
+├── README.md
+└── .gitignore
+
+```
 
 ## Analysis
 
