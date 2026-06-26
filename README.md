@@ -23,9 +23,17 @@ Conversely, the Energy and Basic Materials sectors experienced a pronounced stru
 *Tracking the top index titans as capital flows between speculative infrastructure and defensive banking.*
 ![Top 5 Corporate Drivers](Visuals/top5_drivers.png)
 
+The micro layer reveals that $BREN (PT Barito Renewables Energy) held the dominant position early in the semester, maintaining a peak concentration of around 7.5% across January and February. This dominance sharply reversed in March as its relative footprint fell to 5.65%, initiating a steady downward velocity that shaved off approximately 0.7% of its index weight month-over-month (MoM) to close May at its lowest point for now. 
+Another component experiencing a severe structural contraction is $DSSA (Dian Swastatika Sentosa Tbk). While $DSSA maintained an initial relative concentration of 5.08% in January before adjusting downward to hover around the 4.10% mark across February and March, its weight erosion accelerated dramatically in the final two months. The asset's footprint decayed sharply to 2.51% in April, ultimately bottoming out at a marginal 0.88% by the end of May.
+In stark contrast to the volatile contractions of $BREN and $DSSA, the banking heavyweights $BBCA (Bank Central Asia Tbk.) and $BBRI (Bank Rakyat Indonesia (Persero) Tbk.) exhibited highly resilient and stable concentration structures throughout the first semester. $BBCA maintained a dominant baseline, holding a 6.1% average relative weight, while $BBRI provided a consistent secondary anchor, hovering steadily at an average of 3.9% of the top 50 cohort.
+In contrast, $DCII maintained a slowly growing concentration throughout the semester. In January, they held a 3.17% weight, followed by a stable phase from February until April where they averaged around 3.76%, before rising to finish the semester at 4.33% in May.
+
+
 ### Systemic Decentralization Metric
 *The steady downward velocity proving money is migrating out of the mega-caps into broader market tiers.*
 ![Index Market Share Decay](Visuals/concentration_decay.png)
 
+The aggregate metric uncovers a steady dilution of concentration within the index, as the combined weight of the top 50 equities decelerated smoothly from 71.87% in January to 67.29% by the end of May.
+
 ## Personal Take
-Currently, 
+The overwhelming dominance of the Financials sector presents a classic dual-edged sword for market participants. While it offers a highly attractive, resilient vehicle for long-term investing and stable dividend generation, it simultaneously exposes the IHSG to severe systemic vulnerability. In the event of a banking liquidity crisis or global panic, this disproportionate weight distribution means the financial sector will inadvertently pull down the broader index with extreme velocity. Furthermore, Indonesia’s core economic reliance on cyclical clusters—specifically Infrastructure, Energy, and Basic Materials—introduces a secondary systemic threat. Volatility in global commodity benchmarks (such as oil and coal spikes) directly risks crushing downstream corporate margins, turning the index into an aggressive proxy for raw material pricing cycles rather than an organically diversified marketplace.
