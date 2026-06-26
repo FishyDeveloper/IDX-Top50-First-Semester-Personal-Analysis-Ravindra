@@ -116,7 +116,7 @@ Conversely, the Energy and Basic Materials sectors experienced a pronounced stru
 #### 💡 Key Insights
 
 **Volatile Movers ($BREN, $DSSA):**
-The micro layer reveals that $BREN (PT Barito Renewables Energy) held the dominant position early in the semester, maintaining a peak concentration of around 7.5% across January and February. This dominance gradually eroded as the semester progressed, settling at approximately 5.8% by June—a clear signal of profit-taking and portfolio rebalancing.
+The micro layer reveals that $BREN (PT Barito Renewables Energy) held the dominant position early in the semester, maintaining a peak concentration of around 7.5% across January and February. This dominance gradually eroded as the semester progressed, settling at approximately 5.8% by June, which is a clear signal of profit-taking and portfolio rebalancing.
 
 Another component experiencing a severe structural contraction is $DSSA (Dian Swastatika Sentosa Tbk). While $DSSA maintained an initial relative concentration of 5.08% in January before adjusting downward to approximately 3.2% by mid-semester, suggesting significant institutional outflows and reduced investor confidence.
 
@@ -146,7 +146,7 @@ In contrast, $DCII maintained a slowly growing concentration throughout the seme
 
 #### 💡 Key Insights
 
-The aggregate metric uncovers a steady dilution of concentration within the index, as the combined weight of the top 50 equities decelerated smoothly from 71.87% in January to 67.29% by the end of June. This systematic decentralization of -4.58 percentage points suggests capital flows are rotating from mega-cap stocks toward mid-cap and smaller-cap constituents.
+The aggregate metric uncovers a steady dilution of concentration within the index, as the combined weight of the top 50 equities decelerated smoothly from 71.87% in January to 67.29% by the end of June. This systematic decentralization of -4.58 percentage points suggests capital flows are rotating from top 50 Stocks heavy to other companies indexed in IHSG.
 
 **What this means:**
 - ✅ **Healthier market breadth** - More companies contributing to index performance
@@ -154,7 +154,7 @@ The aggregate metric uncovers a steady dilution of concentration within the inde
 - ✅ **Emerging opportunities** - Smaller companies gaining investor interest and liquidity
 - ⚠️ **Market maturation** - Sign of a maturing market with improved participant diversification
 
-This decentralization indicates improved market breadth and suggests investor confidence in the broader economy beyond the mega-cap tier.
+This decentralization indicates improved market breadth and suggests investor confidence in the broader economy beyond the top 50 Companies Market
 
 ---
 
@@ -172,7 +172,7 @@ This decentralization indicates improved market breadth and suggests investor co
 
 ### Data Limitations & Assumptions
 - Wikipedia sector data is from 2024; some classifications may have shifted in 2026
-- Analysis focuses on top 50 companies; doesn't represent full market dynamics
+- Analysis focuses on top 50 companies; this analysis doesn't represent full market dynamics
 - Monthly snapshots taken at period-end; intra-month volatility not captured
 - External events (political, economic) may impact results beyond data scope
 
@@ -267,7 +267,7 @@ IDX-Top50-First-Semester-Personal-Analysis-Ravindra/
 ---
 
 ## Personal Take
-*[To be completed by project author]*
+The continuous increase in 
 
 ---
 
