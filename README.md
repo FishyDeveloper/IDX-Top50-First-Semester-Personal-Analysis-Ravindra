@@ -161,7 +161,7 @@ This decentralization indicates improved market breadth and suggests investor co
 ## Data Methodology
 
 ### Data Sources
-- **Primary Source**: [IDX Official Statistical Reports](https://idx.co.id/en/market-data/statistical-reports/digital-statistic/monthly/) - Monthly market capitalization data
+- **Primary Source**: [IDX Official Statistical Reports](https://idx.co.id/en/market-data/statistical-reports/digital-statistic/monthly/biggest-market-capitalization-most-active-stocks/biggest-market-capitalization?filter=eyJ5ZWFyIjoiMjAyMyIsIm1vbnRoIjoiNSIsInF1YXJ0ZXIiOjAsInR5cGUiOiJtb250aGx5In0%3D) - Monthly market capitalization data
 - **Secondary Source**: [Wikipedia - Listed Companies on IDX](https://id.wikipedia.org/wiki/Daftar_perusahaan_yang_tercatat_di_Bursa_Efek_Indonesia) - Sector classification (2024 baseline)
 
 ### Calculation Methods
@@ -208,7 +208,7 @@ This decentralization indicates improved market breadth and suggests investor co
    ```
 
 3. **Data Preparation**
-   - Download market capitalization data from [IDX Official Statistical Reports](https://idx.co.id/en/market-data/statistical-reports/digital-statistic/monthly/biggest-market-capitalization-most-active-stocks/biggest-market-capitalization)
+   - Download market capitalization data from [IDX Official Statistical Reports](https://idx.co.id/en/market-data/statistical-reports/digital-statistic/monthly/biggest-market-capitalization-most-active-stocks/biggest-market-capitalization?filter=eyJ5ZWFyIjoiMjAyMyIsIm1vbnRoIjoiNSIsInF1YXJ0ZXIiOjAsInR5cGUiOiJtb250aGx5In0%3D)
    - Reference company sector data: [Wikipedia - Listed Companies on IDX](https://id.wikipedia.org/wiki/Daftar_perusahaan_yang_tercatat_di_Bursa_Efek_Indonesia) *(2024 data - may require additional research)*
    - Place raw data files in the `Raw Files/` directory
 
